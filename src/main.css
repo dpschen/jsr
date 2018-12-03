@@ -115,7 +115,7 @@
 }
 
 .jsr_label .jsr_label::before {
-    content: ' - ';
+    content: ' – ';
 }
 
 .jsr_canvas {
